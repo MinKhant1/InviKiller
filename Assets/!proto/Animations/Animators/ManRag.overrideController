@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ManRag
+  m_Controller: {fileID: 9100000, guid: 3d4ff15b21668a24c9efd9cafe6d7fa8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -4829989146170159145, guid: c410fa53070eade428673445a2f0b70e,
+      type: 3}
+    m_OverrideClip: {fileID: -4829989146170159145, guid: c410fa53070eade428673445a2f0b70e,
+      type: 3}
